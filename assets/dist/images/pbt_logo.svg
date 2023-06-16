@@ -1,0 +1,17 @@
+<svg width="169" height="76" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="78" width="171" y="-1" x="-1"/>
+  <g display="none" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%" id="svg_3"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#000" font-style="normal" font-weight="bold" transform="matrix(1.69236 0 0 1.78167 -17.8814 -8.0501)" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="28" id="svg_1" y="28.35905" x="9.2965" stroke-width="0" fill="#ffffff">Unimax</text>
+  <text stroke="#000" transform="matrix(1.04852 0 0 0.920089 0.283226 1.82933)" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="12" id="svg_2" y="58.06246" x="0.35045" stroke-width="0" fill="#ffffff">Your Global Shipping Network</text>
+  <rect fill="#ffffff" stroke-width="0" x="116.97736" y="61.06819" width="50.90911" height="6.59091" id="svg_4" stroke="#000"/>
+ </g>
+</svg>
